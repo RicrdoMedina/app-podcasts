@@ -1,6 +1,6 @@
 # App de Podcasts del Curso de Next.JS en Platzi
 
-Este repositorio contiene una app sencilla para ver podcasts con la API de Audioboom desarrollada con el Framework Web Next.js.
+Este repositorio contiene una app sencilla para ver podcasts con la API de Audioboom desarrollada con el Microframework Web Next.js.
 
 ![Captura de la App](./readme-static/captura.png)
 
