@@ -4,7 +4,7 @@ Este repositorio contiene una app sencilla para ver podcasts con la API de Audio
 
 ![Captura de la App](./readme-static/captura.png)
 
-[Ver la aplicación](https://app-podcasts-huthdkasle.now.sh)
+[Ver la aplicación](https://app-podcasts.vercel.app/)
 
 ## Cómo funciona?
 
